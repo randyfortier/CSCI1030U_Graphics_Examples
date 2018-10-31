@@ -1,0 +1,18 @@
+﻿  Vector3.cpp
+  Util.cpp
+  Sphere.cpp
+  Ray.cpp
+  Primitive.cpp
+  Plane.cpp
+  Material.cpp
+  main.cpp
+d:\fall 2018\not needed this year\csci1030u\graphics_examples\graphics02f_raytracing\raytracer\raytracer\main.cpp(23): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\fall 2018\not needed this year\csci1030u\graphics_examples\graphics02f_raytracing\raytracer\raytracer\main.cpp(24): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\fall 2018\not needed this year\csci1030u\graphics_examples\graphics02f_raytracing\raytracer\raytracer\main.cpp(27): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\fall 2018\not needed this year\csci1030u\graphics_examples\graphics02f_raytracing\raytracer\raytracer\main.cpp(28): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\fall 2018\not needed this year\csci1030u\graphics_examples\graphics02f_raytracing\raytracer\raytracer\main.cpp(31): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\fall 2018\not needed this year\csci1030u\graphics_examples\graphics02f_raytracing\raytracer\raytracer\main.cpp(32): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\fall 2018\not needed this year\csci1030u\graphics_examples\graphics02f_raytracing\raytracer\raytracer\main.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Colour.cpp
+  Generating Code...
+  RayTracer.vcxproj -> D:\Fall 2018\Not Needed This Year\CSCI1030u\Graphics_Examples\Graphics02f_RayTracing\RayTracer\Debug\RayTracer.exe
